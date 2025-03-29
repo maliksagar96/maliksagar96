@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @maliksagar96
-- 👀 I’m interested in problems in soft matter physics and solutions to problems in life.
-- 🌱 I’m currently learning basic hydrodynamics, theory of glasses and phase transitions, optics and a lot more.
-- 💞️ I’m looking to collaborate on interesting ideas which integrate physics and biology.
-- 📫 How to reach me my emailID is sagar.malik@students.iiserpune.ac.in
+- 👋 Hi, I’m Sagar Malik
+- 👀 I’m interested in problems in physics which have real life applications and are of industrial use. 
+- 🌱 I’m currently learning basic compuatational electromagtic theories and working on it as well.
+- 💞️ I can collaborate with anyone who is interested in solving theory based problem and want to bring them to life.
+- 📫 How to reach me my emailID is sagar.malik@zeusnumerix.com
 
 <!---
 maliksagar96/maliksagar96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
