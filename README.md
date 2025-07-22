@@ -16,14 +16,31 @@
 <details>
   <summary>📅 July 7–14, 2025</summary>
 
-- ✅ Solved LeetCode #70 and #345  
-- 💬 Commented code in VTK-reader repository  
-- ⚙️ Implemented prefix sum in CUDA (naive + shared memory)  
-- 🧲 Added PML boundaries to 2D FDTD simulation  
+- ✅ Solved LeetCode #70 and #345.  
+- 💬 Commented code in VTK-reader repository.  
+- ⚙️ Implemented prefix sum in CUDA (naive + shared memory).  
+- 🧲 Added PML boundaries to 1D FDTD simulation.  
 
 </details>
 
+
+Sure! Here's your update in the same bullet-point format:
+
+<details>
+  <summary>📅 July 15–22, 2025</summary>
+
+* 🌱 Started with Linked Lists.
+* ⚡ Applied Convolutional PML to 2D Maxwell’s equations.
+* ✅ Completed LeetCode #206, #876, #141, #237, and #19.
+* 🚀 Learned and applied CUDA streams.
+* 🧠 Optimized CUDA with `__restrict__` keyword for faster compilation.
+
+</details>
+
+
 ---
+
+
 
 ### 🚧 Currently Working Directories
 
