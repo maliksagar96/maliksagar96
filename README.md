@@ -22,10 +22,6 @@
 - 🧲 Added PML boundaries to 1D FDTD simulation.  
 
 </details>
-
-
-Sure! Here's your update in the same bullet-point format:
-
 <details>
   <summary>📅 July 15–22, 2025</summary>
 
