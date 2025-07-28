@@ -14,7 +14,7 @@
 ### 📈 Weekly Dev Activity Log
 
 <details>
-  <summary>📅 July 7–14, 2025</summary>
+  <summary>📅 July 7–13, 2025</summary>
 
 - ✅ Solved LeetCode #70 and #345.  
 - 💬 Commented code in VTK-reader repository.  
@@ -23,7 +23,7 @@
 
 </details>
 <details>
-  <summary>📅 July 15–22, 2025</summary>
+  <summary>📅 July 14–20, 2025</summary>
 
 * 🌱 Started with Linked Lists.
 * ⚡ Applied Convolutional PML to 2D Maxwell’s equations.
@@ -32,6 +32,16 @@
 * 🧠 Optimized CUDA with `__restrict__` keyword for faster compilation.
 
 </details>
+
+<details>
+  <summary>📅 July 21–27, 2025</summary>
+
+* ✅ Completed LeetCode #21 and #148.
+* 🧩 Learned and implemented Merge Sort for arrays and linkedlists.
+* 🔁 Revisited MPI basics and communication patterns.
+
+</details>
+
 
 
 ---
@@ -55,3 +65,6 @@
 
 - 📂 **[VTK-reader](https://github.com/maliksagar96/VTK-reader.git)**  
   C++ library using VTK to read `.vtk` PolyData and UnstructuredGrid files, extract points, connectivity, scalars, and vectors
+
+- 📂 **[VTK-writer](https://github.com/maliksagar96/VTK-writer.git)**  
+  C++ library using VTK to write `.vtk` UnstructuredGrid files for triangle and quad meshes, with support for scalar and vector fields
