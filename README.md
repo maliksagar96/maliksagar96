@@ -42,15 +42,30 @@
 
 </details>
 
+<details>
+  <summary>📅 July 21–27, 2025</summary>
 
+* ✅ Completed LeetCode #21 and #148.
+* 🧩 Learned and implemented Merge Sort for arrays and linkedlists.
+* 🔁 Revisited MPI basics and communication patterns.
+
+</details>
+
+
+<details>
+  <summary>📅 July 28 – August 3, 2025</summary>
+
+* ✅ Completed LeetCode #92, #25, #160, #234, #20, and #155.
+* 📚 Started studying stacks and queues.
+* 🌳 Began coding region-based quadtrees.
+
+</details>
 
 ---
 
-
-
 ### 🚧 Currently Working Directories
 
-- 🧠 **2D FDTD Solver (C++)(https://github.com/maliksagar96/FDTD.git)**  
+- 🧠 **Region based Quadtree (C++)(https://github.com/maliksagar96/Quadtree.git)**  
   Solving Maxwell's equations using FDTD sovler. 
 
 - 🧱 **CUDA(https://github.com/maliksagar96/CUDA.git)**  
