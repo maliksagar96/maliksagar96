@@ -83,3 +83,6 @@
 
 - 📂 **[VTK-writer](https://github.com/maliksagar96/VTK-writer.git)**  
   C++ library using VTK to write `.vtk` UnstructuredGrid files for triangle and quad meshes, with support for scalar and vector fields
+
+- 📂 **[MPI](https://github.com/maliksagar96/MPI.git)**  
+  Collection of simple MPI examples in C++, including vector addition, array sum, and matrix multiplication. Each example demonstrates key MPI functions (`Scatter`, `Gather`, `Reduce`, `Bcast`) with performance insights and comparisons to serial and CUDA implementations.
