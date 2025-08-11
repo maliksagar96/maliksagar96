@@ -61,6 +61,14 @@
 
 </details>
 
+<details>
+  <summary>📅 August 4 – August 10, 2025</summary>
+
+* 🚀 Performed MPI benchmarking across all processes to analyze performance.
+* 📝 Added a comprehensive GitHub README for the MPI repository.
+
+</details>
+
 ---
 
 ### 🚧 Currently Working Directories
@@ -73,7 +81,6 @@
 
 - 🌐 **DSA(https://github.com/maliksagar96/DSA.git)**  
   
-
 ---
 
 ### ✅ Completed Projects
