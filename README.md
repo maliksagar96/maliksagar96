@@ -11,75 +11,16 @@
 
 ---
 
-### 📈 Weekly Dev Activity Log
-
-<details>
-  <summary>📅 July 7–13, 2025</summary>
-
-- ✅ Solved LeetCode #70 and #345.  
-- 💬 Commented code in VTK-reader repository.  
-- ⚙️ Implemented prefix sum in CUDA (naive + shared memory).  
-- 🧲 Added PML boundaries to 1D FDTD simulation.  
-
-</details>
-<details>
-  <summary>📅 July 14–20, 2025</summary>
-
-* 🌱 Started with Linked Lists.
-* ⚡ Applied Convolutional PML to 2D Maxwell’s equations.
-* ✅ Completed LeetCode #206, #876, #141, #237, and #19.
-* 🚀 Learned and applied CUDA streams.
-* 🧠 Optimized CUDA with `__restrict__` keyword for faster compilation.
-
-</details>
-
-<details>
-  <summary>📅 July 21–27, 2025</summary>
-
-* ✅ Completed LeetCode #21 and #148.
-* 🧩 Learned and implemented Merge Sort for arrays and linkedlists.
-* 🔁 Revisited MPI basics and communication patterns.
-
-</details>
-
-<details>
-  <summary>📅 July 21–27, 2025</summary>
-
-* ✅ Completed LeetCode #21 and #148.
-* 🧩 Learned and implemented Merge Sort for arrays and linkedlists.
-* 🔁 Revisited MPI basics and communication patterns.
-
-</details>
-
-
-<details>
-  <summary>📅 July 28 – August 3, 2025</summary>
-
-* ✅ Completed LeetCode #92, #25, #160, #234, #20, and #155.
-* 📚 Started studying stacks and queues.
-* 🌳 Began coding region-based quadtrees.
-
-</details>
-
-<details>
-  <summary>📅 August 4 – August 10, 2025</summary>
-
-* 🚀 Performed MPI benchmarking across all processes to analyze performance.
-* 📝 Added a comprehensive GitHub README for the MPI repository.
-
-</details>
-
----
-
 ### 🚧 Currently Working Directories
 
-- 🧠 **Region based Quadtree (C++)(https://github.com/maliksagar96/Quadtree.git)**  
+- 🧠 **FDTD (C++)(https://github.com/maliksagar96/FDTD.git)**  
   Solving Maxwell's equations using FDTD sovler. 
 
 - 🧱 **CUDA(https://github.com/maliksagar96/CUDA.git)**  
   Learning CUDA so that I can optimise my solver and other codes. 
 
 - 🌐 **DSA(https://github.com/maliksagar96/DSA.git)**  
+  Actively learning DSA for better understanding and implementation of physics based solvers.
   
 ---
 
