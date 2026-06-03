@@ -5,37 +5,35 @@
 ---
 
 ### 🧠 Currently Learning / Working On
-- ⚙️ GPU programming with CUDA.
-- 🧩 Data Structures & Algorithms (DSA).
-- 🧊 Algotithms in computational geometry(Following Mark De Berg's Computational geometry and algorithms).
+
+* ⚙️ GPU Programming with CUDA.
+* 🧩 Data Structures & Algorithms (DSA).
+* 📚 Modern C++ Concepts.
 
 ---
 
 ### 🚧 Currently Working Directories
 
-- 🌐 **[DSA](https://github.com/maliksagar96/DSA.git)**  
-  Actively learning DSA for better understanding and implementation of physics-based solvers.
+* 🌐 **[DSA](https://github.com/maliksagar96/DSA.git)**
+  Actively learning data structures and algorithms to build a strong foundation for efficient scientific computing and large-scale software development.
 
-- 🧱 **[CUDA](https://github.com/maliksagar96/CUDA.git)**  
-  Learning CUDA to optimize my solvers and accelerate computational codes.
+* 🚀 **[Tensor Tonic Solutions](https://github.com/maliksagar96/Tensor_Tonic_Solutions)**
+  Solutions to Tensor Tonic CUDA and GPU programming challenges, focusing on kernel optimization, reductions, memory hierarchy, warp-level primitives, and performance engineering.
 
-- 📐 **[Computational Geometry](https://github.com/maliksagar96/CompGeometry.git)**  
-  After learning some DSA, I’m now applying that knowledge to real-world, practical problems.
+* 🖥️ **[HPC Fundamentals](https://github.com/maliksagar96/HPC-Checklist)**
+  A structured roadmap covering High-Performance Computing fundamentals, including parallel programming, computer architecture, memory systems, networking, and performance optimization concepts.
 
 ---
 
 ### 🧠 Featured Work
 
-- 🧠 **[FDTD (C++)](https://github.com/maliksagar96/FDTD.git)**  
-  Solving Maxwell's equations using an in-house FDTD solver.
+* 🎯 **[Interview Prep](https://github.com/maliksagar96/Interview_Prep)**
+  Collection of coding problems, algorithms, system design notes, C++ concepts, and interview preparation material gathered during software engineering and HPC interview preparation.
 
-- ⚡ **[CUDA](https://github.com/maliksagar96/CUDA.git)**  
-  A playground of CUDA experiments — from vector operations and stencil computations to GPU-accelerated FDTD prototypes. Focused on learning, profiling, and optimizing performance-critical kernels.
+* ⚡ **[FDTD (C++)](https://github.com/maliksagar96/FDTD.git)**
+  Solving Maxwell's equations using an in-house Finite Difference Time Domain (FDTD) solver, with a focus on computational electromagnetics and scientific computing.
 
-- 📂 **[MPI](https://github.com/maliksagar96/MPI.git)**  
-  Collection of simple MPI examples in C++, including vector addition, array sum, and matrix multiplication. Each example demonstrates key MPI functions (`Scatter`, `Gather`, `Reduce`, `Bcast`) with performance insights and comparisons to serial and CUDA implementations.
-
-- 📂 **[VTK-reader and Writer](https://github.com/maliksagar96/VTK-reader.git)(https://github.com/maliksagar96/VTK-writer.git)**  
-  C++ library using VTK to read and write`.vtk` PolyData and UnstructuredGrid files, extract points, connectivity, scalars, and vectors.
+* 📐 **[VTK Reader & Writer](https://github.com/maliksagar96/VTK-reader.git)** | **[Writer](https://github.com/maliksagar96/VTK-writer.git)**
+  C++ utilities built with VTK to read and write `.vtk` PolyData and UnstructuredGrid files, including extraction of points, connectivity, scalar fields, and vector fields.
 
 ---
